@@ -1,0 +1,11 @@
+1. Two java files have been attached with this Controller.java and Node.java
+2. Execute the java program using the following command
+
+For compile    javac Controller.java
+               javac Node.java
+For run        java Controller &
+               java Node 0 &
+    
+3. Controller runs in infinite loop and kindly stop it after all the node executions
+4. Link State Advertisement wont be generated if the node does not receive any hello messages.
+5. This code was tested at cs2.utdallas.edu machine. 
